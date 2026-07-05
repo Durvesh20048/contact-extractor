@@ -1,4 +1,16 @@
 # 📇 Contact Information Extraction System using NLP
+![Python](https://img.shields.io/badge/Python-3.10-blue?style=for-the-badge&logo=python)
+![Flask](https://img.shields.io/badge/Flask-Web%20Framework-black?style=for-the-badge&logo=flask)
+![spaCy](https://img.shields.io/badge/spaCy-NLP-09A3D5?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-Information%20Extraction-success?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+<p align="center">
+  <img src="https://img.shields.io/github/stars/YOUR_USERNAME/contact-extractor?style=social">
+  <img src="https://img.shields.io/github/forks/YOUR_USERNAME/contact-extractor?style=social">
+  <img src="https://img.shields.io/github/issues/YOUR_USERNAME/contact-extractor">
+  <img src="https://img.shields.io/github/last-commit/YOUR_USERNAME/contact-extractor">
+</p>
 
 > **An intelligent NLP-powered application that automatically extracts contact information from unstructured documents such as resumes, emails, chat conversations, and text files.**
 >
